@@ -1,0 +1,319 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="800" viewBox="0 0 1400 800">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M14,8H8v6H6V8H0V6H6V0H8V6h6V8Z" transform="translate(5648 -5774)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Mask-2" data-name="Mask" d="M3.633,14.25h0L.008,10.616,1.124,9.5,3.633,12.01,6.143,9.5l1.124,1.116L3.634,14.249Zm-2.51-9.5h0L0,3.633,3.633,0,7.259,3.633,6.144,4.749,3.633,2.24,1.124,4.75Z" transform="translate(5479 -5521)" fill="#3f3f47"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Mask-3" data-name="Mask" d="M16,16H0V14c0-.82.52-2,3-3a14.848,14.848,0,0,1,5-1,14.848,14.848,0,0,1,5,1c2.478.993,3,2.178,3,3v2ZM8,8a4,4,0,1,1,4-4A4.005,4.005,0,0,1,8,8Z" transform="translate(10 10)" fill="#43444b"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Mask-4" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(4838 -5710)" fill="#2a2b31"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Mask-5" data-name="Mask" d="M16,17.49h0L11,12.5v-.79l-.27-.28a6.509,6.509,0,1,1,.7-.7l.28.27h.79l4.99,5L16,17.489ZM6.5,2A4.5,4.5,0,1,0,11,6.5,4.505,4.505,0,0,0,6.5,2Z" transform="translate(5198 -5777)" fill="#42434b"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Mask-6" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5528)" fill="#2a2b31"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Mask-7" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5479)" fill="#2a2b31"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Mask-8" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5429)" fill="#2a2b31"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Mask-9" data-name="Mask" d="M-12,3.333h9.447L-4.94.94-4,0,0,4-4,8l-.94-.94,2.387-2.393H-12Z" transform="translate(193 16)" fill="#7ac231"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Mask-11" data-name="Mask" d="M12,3.333H2.553L4.94.94,4,0,0,4,4,8l.94-.94L2.553,4.667H12Z" transform="translate(195 16)" fill="#d0021b"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Mask-12" data-name="Mask" d="M-12,3.333h9.447L-4.94.94-4,0,0,4-4,8l-.94-.94,2.387-2.393H-12Z" transform="translate(180 16)" fill="#7ac231"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Mask-13" data-name="Mask" d="M12,3.333H2.553L4.94.94,4,0,0,4,4,8l.94-.94L2.553,4.667H12Z" transform="translate(196 16)" fill="#d0021b"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Mask-14" data-name="Mask" d="M7,14a7,7,0,1,1,7-7A7.008,7.008,0,0,1,7,14ZM6.3,9.1v1.4H7.7V9.1Zm0-5.6V7.7H7.7V3.5Z" transform="translate(12 10.5)" fill="#3f4048"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Mask-15" data-name="Mask" d="M20,20l0,0-4-4H5a1,1,0,0,1-1-1V13H17V4h2a1,1,0,0,1,1,1V20ZM0,15V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H4L0,15Z" transform="translate(7 14)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Rectangle" width="85.483" height="777.735" transform="translate(0.063)" fill="#0d1431"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Mask-16" data-name="Mask" d="M8.751,15.71V7.064H15.2V14.67a1.04,1.04,0,0,1-1.04,1.04Zm-7.71,0A1.04,1.04,0,0,1,0,14.67V10.51H6.449v5.2ZM0,8.646V1.04A1.04,1.04,0,0,1,1.04,0H6.449V8.646ZM8.751,5.2V0H14.16A1.04,1.04,0,0,1,15.2,1.04V5.2Z" transform="translate(37.86 170.067)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-Dashboard">
+      <rect width="1400" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Dashboard" clip-path="url(#clip-Dashboard)">
+    <rect width="1400" height="800" fill="#0d1431"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="269" height="285" rx="2" transform="translate(120 146)" fill="#17204c"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="653" height="313" rx="2" transform="translate(120 451)" fill="#17204c"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="200" height="99.949" rx="2" transform="translate(408 146)" fill="#05a677"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="120" height="99.949" rx="2" transform="translate(768 146)" fill="#17204c"/>
+    <rect id="Rectangle-6" data-name="Rectangle" width="120" height="99.949" rx="2" transform="translate(628 146)" fill="#17204c"/>
+    <rect id="Rectangle-7" data-name="Rectangle" width="234" height="313" rx="2" transform="translate(794 451)" fill="#17204c"/>
+    <path id="Rectangle-8" data-name="Rectangle" d="M2,0H749a2,2,0,0,1,2,2V33a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(120 36)" fill="#17204c"/>
+    <g id="Rectangle-9" data-name="Rectangle" transform="translate(992 36)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+      <rect width="35" height="35" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="33" height="33" rx="1" fill="none"/>
+    </g>
+    <rect id="Rectangle-10" data-name="Rectangle" width="269" height="165" rx="2" transform="translate(408 266)" fill="#17204c" opacity="0.628"/>
+    <rect id="Rectangle-11" data-name="Rectangle" width="331" height="165" rx="2" transform="translate(697 266)" fill="#17204c"/>
+    <text id="Send_to" data-name="Send to" transform="translate(774 353)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-50.981" y="0">SEND TO</tspan></text>
+    <text id="Amount" transform="translate(895 308)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-24.863" y="0">AMOUNT</tspan></text>
+    <rect id="Rectangle-12" data-name="Rectangle" width="313" height="477" rx="2" transform="translate(1048 146)" fill="#17204c"/>
+    <rect id="Rectangle-13" data-name="Rectangle" width="313" height="120" rx="2" transform="translate(1048 643)" fill="#17204c"/>
+    <text id="Markets" transform="translate(850.5 478)" fill="#fff" font-size="16" font-family="Helvetica"><tspan x="-29.199" y="0" letter-spacing="0.019em">Marke</tspan><tspan y="0">ts</tspan></text>
+    <text id="USD" transform="translate(933 477)" fill="#606166" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-12.025" y="0">US</tspan><tspan y="0" letter-spacing="0.041em">D</tspan></text>
+    <text id="EUR" transform="translate(964.25 477)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-12.025" y="0">EU</tspan><tspan y="0" letter-spacing="0.041em">R</tspan></text>
+    <text id="BTC" transform="translate(995 477)" fill="#606166" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-11.413" y="0">BT</tspan><tspan y="0" letter-spacing="0.041em">C</tspan></text>
+    <text id="Bitcoin_Chart" data-name="Bitcoin Chart" transform="translate(210 488)" fill="#fff" font-size="20" font-family="Helvetica"><tspan x="-59.046" y="0" letter-spacing="0.015em">Bitcoin Char</tspan><tspan y="0">t</tspan></text>
+    <text id="Current_balance" data-name="Current balance" transform="translate(195 292)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-44.791" y="0">Current balance</tspan></text>
+    <text id="_12_" data-name="+12%" transform="translate(223 400)" fill="#05a677" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">+12%</tspan></text>
+    <text id="_2.7995_EUR" data-name="2.7995 EUR" transform="translate(149 400)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0" xml:space="preserve">2.7995  EUR</tspan></text>
+    <text id="Bitcoin" transform="translate(581.5 302)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-18.909" y="0">Bitcoin</tspan></text>
+    <text id="Ethereum" transform="translate(587.5 351)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-27.063" y="0">Ethereum</tspan></text>
+    <text id="Litecoin" transform="translate(584 403)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-21.731" y="0">Litecoin</tspan></text>
+    <text id="Overview" transform="translate(150 121)" fill="#42434b" font-size="14" font-family="Helvetica" letter-spacing="0.023em"><tspan x="-30.303" y="0">Overvie</tspan><tspan y="0" letter-spacing="0.025em">w</tspan></text>
+    <path id="Rectangle_10" data-name="Rectangle 10" d="M2,0H63a2,2,0,0,1,2,2V74a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(302 175)" fill="#0d1431"/>
+    <text id="Wallets" transform="translate(335 234)" fill="#fff" font-size="13" font-family="Helvetica"><tspan x="-21.971" y="0" letter-spacing="0.023em">Wallet</tspan><tspan y="0">s</tspan></text>
+    <text id="_3.4330" data-name="3.4330" transform="translate(149 340)" fill="#fff" font-size="48" font-family="Helvetica" letter-spacing="0.007em"><tspan x="0" y="0">3.4330 </tspan></text>
+    <text id="USD-2" data-name="USD" transform="translate(302 310)" fill="#3a3c43" font-size="12" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-14.721" y="0">USD </tspan></text>
+    <text id="_81_" data-name="81%" transform="translate(489 303)" fill="#fff" font-size="24" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="0.013em">81%</tspan><tspan y="0"> </tspan></text>
+    <text id="_12_2" data-name="12%" transform="translate(489 352)" fill="#fff" font-size="24" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="0.013em">12%</tspan><tspan y="0"> </tspan></text>
+    <text id="_7_" data-name="7%" transform="translate(489 404)" fill="#fff" font-size="24" font-family="Helvetica" letter-spacing="0.013em"><tspan x="0" y="0">7% </tspan></text>
+    <text id="_5" data-name="5" transform="translate(335 207)" fill="#fff" font-size="34" font-family="Helvetica"><tspan x="-14.328" y="0" letter-spacing="0.009em">5</tspan><tspan y="0"> </tspan></text>
+    <text id="Transactions" transform="translate(182.5 234)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-35.778" y="0">Transactions</tspan></text>
+    <text id="_2_345" data-name="2,345" transform="translate(149 206)" fill="#fff" font-size="34" font-family="Helvetica" letter-spacing="0.01em"><tspan x="0" y="0">2,345</tspan><tspan y="0" letter-spacing="0.011em"> </tspan></text>
+    <text id="Nikita_Resheteev" data-name="Nikita Resheteev" transform="translate(1261 55)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-50.345" y="0">Tanislav Robert</tspan></text>
+    <text id="Search_" data-name="Search…" transform="translate(157 57)" fill="#42434b" font-size="13" font-family="Helvetica"><tspan x="-27.995" y="0" letter-spacing="0.023em">Search</tspan><tspan y="0">…</tspan></text>
+    <text id="Transactions-2" data-name="Transactions" transform="translate(1067 183)" fill="#fff" font-size="16" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="0.019em">Transactio</tspan><tspan y="0">ns</tspan></text>
+    <text id="Bitcoin-2" data-name="Bitcoin" transform="translate(449.5 226)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-25.04" y="0">Bitcoi</tspan><tspan y="0" letter-spacing="0.024em">n</tspan></text>
+    <text id="_0.221746" data-name="0.221746" transform="translate(597 224)" fill="#fff" font-size="24" font-family="Helvetica" letter-spacing="0.013em"><tspan x="-102.202" y="0">0.221746</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(433 288)">
+      <path id="Oval_4" data-name="Oval 4" d="M26.514,13.257A13.257,13.257,0,1,0,13.257,26.514h0" transform="translate(0.743 0.743)" fill="none" stroke="rgba(0,0,0,0.25)" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Oval_4-2" data-name="Oval 4" d="M26.514,13.257A13.257,13.257,0,1,0,13.257,26.514h0" transform="translate(27.257 27.257) rotate(180)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_2-2" data-name="Group 2" transform="translate(433 337)">
+      <path id="Oval_4-3" data-name="Oval 4" d="M26.51,13.255A13.255,13.255,0,1,0,13.255,26.51h0" transform="translate(0.743 0.743)" fill="none" stroke="rgba(0,0,0,0.25)" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Oval_4-4" data-name="Oval 4" d="M13.257,0A13.257,13.257,0,0,0,0,13.257" transform="translate(27.257 27.257) rotate(180)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <text id="DASH_EUR" data-name="DASH/EUR" transform="translate(850.5 525)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.03em"><tspan x="-26.887" y="0">DASH/EUR</tspan></text>
+    <text id="_0.0834_EUR" data-name="0.0834 EUR" transform="translate(823.5 545)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.021em"><tspan x="0" y="0" xml:space="preserve">0.0834  EUR</tspan></text>
+    <text id="_1.93_" data-name="1.93%" transform="translate(900.5 524)" fill="#4c4d55" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-16.42" y="0">1.93%</tspan></text>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="182" height="1" transform="translate(819 562)" fill="#3a3c43"/>
+    <text id="ETH_EUR" data-name="ETH/EUR" transform="translate(846.5 590)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.03em"><tspan x="-22.846" y="0">ETH/EUR</tspan></text>
+    <text id="_1_087.91_EUR" data-name="1,087.91 EUR" transform="translate(823.5 610)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.021em"><tspan x="0" y="0" xml:space="preserve">1,087.91  EUR</tspan></text>
+    <text id="_-1.14_" data-name="-1.14%" transform="translate(895.5 589)" fill="#4c4d55" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-18.458" y="0">-1.14%</tspan></text>
+    <rect id="Rectangle_9-2" data-name="Rectangle 9" width="182" height="1" transform="translate(819 627)" fill="#3a3c43"/>
+    <text id="LTC_EUR" data-name="LTC/EUR" transform="translate(845.5 654)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.03em"><tspan x="-21.923" y="0">LTC/EUR</tspan></text>
+    <text id="_197.48_EUR" data-name="197.48 EUR" transform="translate(823.5 674)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.021em"><tspan x="0" y="0" xml:space="preserve">197.48  EUR</tspan></text>
+    <text id="_-0.48_" data-name="-0.48%" transform="translate(894.5 653)" fill="#4c4d55" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-18.458" y="0">-0.48%</tspan></text>
+    <rect id="Rectangle_9-3" data-name="Rectangle 9" width="182" height="1" transform="translate(819 691)" fill="#3a3c43"/>
+    <text id="BTC_EUR" data-name="BTC/EUR" transform="translate(846.5 719)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.03em"><tspan x="-22.846" y="0">BTC/EUR</tspan></text>
+    <text id="_11_435.18_EUR" data-name="11,435.18 EUR" transform="translate(823.5 739)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.021em"><tspan x="0" y="0">11,435.18 EUR</tspan></text>
+    <text id="_1.75_" data-name="1.75%" transform="translate(894.5 718)" fill="#4c4d55" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-16.42" y="0">1.75%</tspan></text>
+    <text id="ValueCash_Announces" data-name="ValueCash Announces" transform="translate(1071 688)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="11">ValueCash Announces ICO to Reform </tspan><tspan x="0" y="28">E-Commerce With Its PoT Protocol</tspan></text>
+    <text id="_16:23_12_dec_2018" data-name="16:23, 12 dec 2018" transform="translate(1071 731)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">16:23, 12 dec </tspan></text>
+    <text id="ALL" transform="translate(1236.5 178)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-10.199" y="0">AL</tspan><tspan y="0" letter-spacing="0.041em">L</tspan></text>
+    <text id="SEND" transform="translate(1271.5 178)" fill="#606166" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-15.9" y="0">SEND</tspan></text>
+    <text id="RECENT" transform="translate(1318.5 178)" fill="#606166" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-23.644" y="0">RECEN</tspan><tspan y="0" letter-spacing="0.041em">T</tspan></text>
+    <text id="News" transform="translate(1088.5 667)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.019em"><tspan x="-20.454" y="0">News</tspan></text>
+    <text id="My_wallets" data-name="My wallets" transform="translate(447.5 121)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.019em"><tspan x="-38.69" y="0">My wallets</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(564 155)">
+      <path id="Rectangle_3" data-name="Rectangle 3" d="M2,0H33a2,2,0,0,1,2,2V33a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="#09956c"/>
+      <path id="Shape" d="M8.314,21.821h0l-1.89-.471L7.2,18.256c-.536-.133-1.03-.262-1.507-.392l-.775,3.109L3.026,20.5l.782-3.141-.514-.134c-.272-.071-.551-.144-.833-.215L0,16.4l.939-2.164c.011,0,1.3.345,1.371.345a1.051,1.051,0,0,0,.226.028.693.693,0,0,0,.642-.478L4.415,9.172l.082.02.118.029a1.686,1.686,0,0,0-.2-.063L5.3,5.621a1.009,1.009,0,0,0-.881-1.1c-.006-.023-.9-.233-1.373-.341l.5-2.02,2.607.652,0,.009c.39.1.794.19,1.208.284L8.137,0l1.889.472L9.267,3.515l.024,0c.491.113,1,.229,1.49.352L11.535.848l1.891.471-.775,3.106c2.881.992,4.085,2.374,3.79,4.348a3.026,3.026,0,0,1-2.414,2.776c1.929,1,2.481,2.461,1.737,4.585a3.946,3.946,0,0,1-4.2,2.824A13.444,13.444,0,0,1,9.1,18.685L8.314,21.82ZM7.341,11.428,6.3,15.59c.106.026.231.059.37.1a13.074,13.074,0,0,0,3.123.532c1.314,0,2.1-.467,2.325-1.388a1.692,1.692,0,0,0-.187-1.344C11.2,12.3,8.992,11.8,7.805,11.535,7.625,11.5,7.47,11.46,7.341,11.428Zm1.417-5.68L7.816,9.523c.089.022.194.05.312.082a10.2,10.2,0,0,0,2.515.43c1.154,0,1.848-.436,2.062-1.3a1.6,1.6,0,0,0-.169-1.274c-.629-1.015-2.425-1.413-3.391-1.627C9,5.8,8.865,5.775,8.758,5.748Z" transform="translate(8.922 7.656)" fill="#f4b759"/>
+    </g>
+    <g id="Group_3-2" data-name="Group 3" transform="translate(841 156)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="35" height="35" rx="2" fill="#0d1431"/>
+      <path id="Shape-2" data-name="Shape" d="M1.561,12.265,0,12.871.752,9.854l1.579-.634L4.608,0h5.61L8.556,6.777,10.1,6.152,9.355,9.16l-1.561.625-.928,3.81h8.446L14.358,17.5H.276Z" transform="translate(9.844 8.75)" fill="#fff"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(703 155)">
+      <g id="Group_3-3" data-name="Group 3">
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="35" height="35" rx="2" fill="#0d1431"/>
+      </g>
+      <path id="Shape-3" data-name="Shape" d="M.294,14.209l7.358,4.135,7.5-4.135L7.72,24.25ZM0,12.461,7.674,9.326l7.459,3.223L7.674,16.6ZM7.64,7.852.272,10.866,7.629,0l7.153,10.943Z" transform="translate(9.844 5.469)" fill="#fff"/>
+    </g>
+    <text id="BTC-2" data-name="BTC" transform="translate(436.5 176)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-12.257" y="0">BTC</tspan></text>
+    <text id="Ethereum-2" data-name="Ethereum" transform="translate(677 226)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-35.884" y="0">Ethereum</tspan></text>
+    <text id="ETH" transform="translate(654.5 176)" fill="#3a3c43" font-size="12" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-12.257" y="0">ETH</tspan></text>
+    <text id="Litecoin-2" data-name="Litecoin" transform="translate(813 226)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-28.774" y="0">Litecoin</tspan></text>
+    <text id="LTC" transform="translate(795.5 176)" fill="#3a3c43" font-size="12" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-11.15" y="0">LTC</tspan></text>
+    <rect id="Rectangle-14" data-name="Rectangle" width="120" height="99.949" rx="2" transform="translate(908 146)" fill="#17204c"/>
+    <g id="Group_3-4" data-name="Group 3" transform="translate(981 156)">
+      <rect id="Rectangle_3-4" data-name="Rectangle 3" width="35" height="35" rx="2" fill="#0d1431"/>
+    </g>
+    <text id="Dash" transform="translate(943 226)" fill="#fff" font-size="16" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-19.19" y="0">Dash</tspan></text>
+    <text id="DASH-2" data-name="DASH" transform="translate(941.5 176)" fill="#3a3c43" font-size="12" font-family="Helvetica" letter-spacing="0.021em"><tspan x="-17.056" y="0">DASH</tspan></text>
+    <path id="Shape-4" data-name="Shape" d="M14.914,12.743H.5L1.524,9.562H14.591l2.056-6.381H3.6L4.61,0H18.952A2.3,2.3,0,0,1,20.9.778a3.105,3.105,0,0,1,.3,2.4h0L19.162,9.562a6.274,6.274,0,0,1-1,1.591A4.284,4.284,0,0,1,14.914,12.743Zm-7.161-4.9H0L1.01,4.9H8.743l-.99,2.952Z" transform="translate(988 166)" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(319 386)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="2">
+      <rect width="47" height="23" rx="11.5" stroke="none"/>
+      <rect x="1" y="1" width="45" height="21" rx="10.5" fill="none"/>
+    </g>
+    <text id="buy" transform="translate(342.5 401)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-11.791" y="0">buy </tspan></text>
+    <text id="Аdd_wallet" data-name="Аdd wallet" transform="translate(990 118)" fill="#05a677" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-32.734" y="0" xml:space="preserve"> Аdd wallet </tspan></text>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="231" height="29" rx="2" transform="translate(782 335)" fill="#0d1431"/>
+    <text id="Wallet" transform="translate(774 308)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.037em"><tspan x="-45.67" y="0">WALLET</tspan></text>
+    <text id="Receice_Bitcoin" data-name="Receice Bitcoin" transform="translate(824.5 400)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-43.453" y="0">Receice Bitcoin</tspan></text>
+    <rect id="Rectangle_14-2" data-name="Rectangle 14" width="65" height="29" rx="2" transform="translate(782 292)" fill="#0d1431"/>
+    <rect id="Rectangle_14-3" data-name="Rectangle 14" width="83" height="29" rx="2" transform="translate(930 292)" fill="#0d1431"/>
+    <g id="Rectangle_13-2" data-name="Rectangle 13" transform="translate(956 386)" fill="none" stroke="#3f4048" stroke-miterlimit="10" stroke-width="2">
+      <rect width="57" height="23" rx="11.5" stroke="none"/>
+      <rect x="1" y="1" width="55" height="21" rx="10.5" fill="none"/>
+    </g>
+    <text id="BTC-3" data-name="BTC" transform="translate(793 309)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">BTC</tspan></text>
+    <text id="_0.233455" data-name="0.233455" transform="translate(940 309)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">0.233455</tspan></text>
+    <text id="_1Cs4wu6pu5qCZ35bSLNV" data-name="1Cs4wu6pu5qCZ35bSLNV" transform="translate(790 343)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">1Cs4wu6pu5qCZ35bSLNVzGyEx5N6</tspan></text>
+    <text id="send-2" data-name="send" transform="translate(985 399)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-17.095" y="0" xml:space="preserve">send  </tspan></text>
+    <g id="Group_7" data-name="Group 7" transform="translate(-4645 5821)">
+      <path id="Mask-18" data-name="Mask" d="M14,8H8v6H6V8H0V6H6V0H8V6h6V8Z" transform="translate(5648 -5774)" fill="#fff"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(-4645 5821)">
+      <path id="Mask-19" data-name="Mask" d="M3.633,14.25h0L.008,10.616,1.124,9.5,3.633,12.01,6.143,9.5l1.124,1.116L3.634,14.249Zm-2.51-9.5h0L0,3.633,3.633,0,7.259,3.633,6.144,4.749,3.633,2.24,1.124,4.75Z" transform="translate(5479 -5521)" fill="#3f3f47"/>
+    </g>
+    <path id="Mask-20" data-name="Mask" d="M18,12H0V10H18v2Zm0-5H0V5H18V7Zm0-5H0V0H18V2Z" transform="translate(1170 47)" fill="#fff"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(1328 36)">
+      <rect id="Rectangle-15" data-name="Rectangle" width="35" height="35" rx="2" fill="#0d1431"/>
+      <path id="Mask-21" data-name="Mask" d="M16,16H0V14c0-.82.52-2,3-3a14.848,14.848,0,0,1,5-1,14.848,14.848,0,0,1,5,1c2.478.993,3,2.178,3,3v2ZM8,8a4,4,0,1,1,4-4A4.005,4.005,0,0,1,8,8Z" transform="translate(10 10)" fill="#43444b"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(-4645 5821)">
+      <path id="Mask-22" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(4838 -5710)" fill="#2a2b31"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-4353 5820)">
+      <path id="Mask-23" data-name="Mask" d="M16,17.49h0L11,12.5v-.79l-.27-.28a6.509,6.509,0,1,1,.7-.7l.28.27h.79l4.99,5L16,17.489ZM6.5,2A4.5,4.5,0,1,0,11,6.5,4.505,4.505,0,0,0,6.5,2Z" transform="translate(5198 -5775)" fill="#42434b"/>
+    </g>
+    <rect id="Rectangle_13-3" data-name="Rectangle 13" width="37" height="23" rx="11.5" transform="translate(611 477)" fill="#4c4d55"/>
+    <text id="_1m" data-name="1m" transform="translate(594 490)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-8.485" y="0">1m</tspan></text>
+    <text id="_3m" data-name="3m" transform="translate(629.5 490)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-8.485" y="0">3m</tspan></text>
+    <text id="_6m" data-name="6m" transform="translate(666 490)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-8.485" y="0">6m</tspan></text>
+    <text id="_1y" data-name="1y" transform="translate(700 490)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-6.487" y="0">1y</tspan></text>
+    <text id="All-2" data-name="All" transform="translate(733 490)" fill="#606166" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-6.968" y="0">All</tspan></text>
+    <text id="_15k" data-name="15k" transform="translate(144 569.65)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="11.188" y="8">15k</tspan></text>
+    <text id="_20k" data-name="20k" transform="translate(144 532.2)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="11.188" y="8">20k</tspan></text>
+    <text id="_10k" data-name="10k" transform="translate(144 607.1)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="11.188" y="8">10k</tspan></text>
+    <text id="_5k" data-name="5k" transform="translate(144 644.55)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="14.094" y="8">5k</tspan></text>
+    <text id="_0k" data-name="0k" transform="translate(144 682)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="14.094" y="8">0k</tspan></text>
+    <text id="_23_oct" data-name="23 oct" transform="translate(209 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="5.254" y="8">23 oct</tspan></text>
+    <text id="_6_nov" data-name="6 nov" transform="translate(309 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="6.769" y="8">6 nov</tspan></text>
+    <text id="_20_nov" data-name="20 nov" transform="translate(409 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="3.863" y="8">20 nov</tspan></text>
+    <text id="_4_dec" data-name="4 dec" transform="translate(509 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="6.769" y="8">4 dec</tspan></text>
+    <text id="_18_dec" data-name="18 dec" transform="translate(609 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="3.863" y="8">18 dec</tspan></text>
+    <text id="_1_jan" data-name="1 jan" transform="translate(709 716)" fill="#606166" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="8.158" y="8">1 jan</tspan></text>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="539" height="1" transform="translate(200 539)" fill="#323235"/>
+    <rect id="Rectangle_8-2" data-name="Rectangle 8" width="539" height="1" transform="translate(200 576.25)" fill="#323235"/>
+    <rect id="Rectangle_8-3" data-name="Rectangle 8" width="539" height="1" transform="translate(200 613.5)" fill="#323235"/>
+    <rect id="Rectangle_8-4" data-name="Rectangle 8" width="539" height="1" transform="translate(200 650.75)" fill="#323235"/>
+    <rect id="Rectangle_8-5" data-name="Rectangle 8" width="539" height="1" transform="translate(200 688)" fill="#323235"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="1" height="4" transform="translate(224 689)" fill="#323235"/>
+    <rect id="Rectangle_11-2" data-name="Rectangle 11" width="1" height="4" transform="translate(325.4 689)" fill="#323235"/>
+    <rect id="Rectangle_11-3" data-name="Rectangle 11" width="1" height="4" transform="translate(426.8 689)" fill="#323235"/>
+    <rect id="Rectangle_11-4" data-name="Rectangle 11" width="1" height="4" transform="translate(528.2 689)" fill="#323235"/>
+    <rect id="Rectangle_11-5" data-name="Rectangle 11" width="1" height="4" transform="translate(629.6 689)" fill="#323235"/>
+    <rect id="Rectangle_11-6" data-name="Rectangle 11" width="1" height="4" transform="translate(731 689)" fill="#323235"/>
+    <path id="Path_4" data-name="Path 4" d="M0,105.4H13.162L28.093,107l12.193-3.165H58.677L62.362,107l11.73-3.165L86.614,107l6-4.794s4.756-.405,7.055-.762,16.266-6.78,16.918-6.715,11.115-2.1,11.115-2.1h5.527s4.77,3.247,5.725,3.287,12.69-3.287,12.69-3.287l22.316,11.2,4.937-5.069h5.951l12.131-9.756,7.048.934,16.074-4.251,5.328,1.484s4.8-2.149,5.789-1.484,6.975,2.269,6.975,2.269l22.4-13.679,16.905-.664,6.45-7.752,23.192-6.537,11.883-40.08,11.414,14.243h6.2l5.234-13.122,7.215-3.889,4.243,5.441h7.319L371.486,0l11.476,2.606,18.271,27.6,4.579,12.131,7.15-5.2,4.884,4.349,6.692.852,5.189-14.482,10.56,9.281,6.85.781,5.287,12.911s6-9.246,6.46-8.491,6.436,3.41,6.436,3.41l6.513-11.333,10.556-2.367s4.849-12.205,5.5-12.8,6.145-2.769,6.145-2.769L511,37.914l6.18-3.5,5.731,11.333L536,39.633" transform="translate(203 566)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(-4645 5821)">
+      <path id="Mask-24" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5528)" fill="#2a2b31"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(-4645 5821)">
+      <path id="Mask-25" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5479)" fill="#2a2b31"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(-4645 5821)">
+      <path id="Mask-26" data-name="Mask" d="M2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm0-6A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(5293 -5429)" fill="#2a2b31"/>
+    </g>
+    <g id="Group" transform="translate(1066 213)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="276" height="72" rx="2" fill="#0d1431"/>
+      <text id="_16:23_12_dec_2018-2" data-name="16:23, 12 dec 2018" transform="translate(55.5 23)" fill="#fff" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-44.669" y="0">16:2</tspan><tspan y="0" letter-spacing="0.021em">3, 12 dec 2018</tspan></text>
+      <text id="_0.009_BTC" data-name="0.009 BTC" transform="translate(255 22)" fill="#fefefe" font-size="12" font-family="Helvetica"><tspan x="-59.763" y="0" letter-spacing="0.025em">0.009 BT</tspan><tspan y="0">C</tspan></text>
+      <text id="_1PRj85hu9RXPZTzxtko9" data-name="1PRj85hu9RXPZTzxtko9" transform="translate(16 46)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">1PRj85hu9RXPZTzxtko9stfs6nRo1vyrQB</tspan></text>
+      <path id="Mask-27" data-name="Mask" d="M-12,3.333h9.447L-4.94.94-4,0,0,4-4,8l-.94-.94,2.387-2.393H-12Z" transform="translate(193 16)" fill="#7ac231"/>
+    </g>
+    <g id="Group-3" data-name="Group" transform="translate(1066 293)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="276" height="72" rx="2" fill="#0d1431"/>
+      <text id="_15:00_12_dec_2018" data-name="15:00, 12 dec 2018" transform="translate(55.5 23)" fill="#fff" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-44.69" y="0">15:00</tspan><tspan y="0" letter-spacing="0.021em">, 12 dec 2018</tspan></text>
+      <text id="_0.007_BTC" data-name="0.007 BTC" transform="translate(255 22)" fill="#fefefe" font-size="12" font-family="Helvetica"><tspan x="-59.763" y="0" letter-spacing="0.025em">0.007 BT</tspan><tspan y="0">C</tspan></text>
+      <text id="_14FuM1aBgcNc4Y5TskDB" data-name="14FuM1aBgcNc4Y5TskDB" transform="translate(16 46)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">14FuM1aBgcNc4Y5TskDBqhwknVpRnkwj</tspan></text>
+      <path id="Mask-28" data-name="Mask" d="M-12,3.333h9.447L-4.94.94-4,0,0,4-4,8l-.94-.94,2.387-2.393H-12Z" transform="translate(193 16)" fill="#7ac231"/>
+    </g>
+    <g id="Group-5" data-name="Group" transform="translate(1066 373)">
+      <rect id="Rectangle_12-3" data-name="Rectangle 12" width="276" height="72" rx="2" fill="#0d1431"/>
+      <text id="_11:00_11_dec_2018" data-name="11:00, 11 dec 2018" transform="translate(16 23)" fill="#fff" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">11:00</tspan><tspan y="0" letter-spacing="0.021em">, 11 dec 2018</tspan></text>
+      <text id="_0.3_BTC" data-name="0.3 BTC" transform="translate(255 22)" fill="#fefefe" font-size="12" font-family="Helvetica"><tspan x="-45.816" y="0" letter-spacing="0.025em">0.3 BT</tspan><tspan y="0">C</tspan></text>
+      <text id="_1M5TdPV8G6YfcKkrNEyh" data-name="1M5TdPV8G6YfcKkrNEyh" transform="translate(16 46)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">1M5TdPV8G6YfcKkrNEyhPu3nBpWtGXJ</tspan></text>
+      <path id="Mask-29" data-name="Mask" d="M12,3.333H2.553L4.94.94,4,0,0,4,4,8l.94-.94L2.553,4.667H12Z" transform="translate(195 16)" fill="#d0021b"/>
+    </g>
+    <g id="Group-7" data-name="Group" transform="translate(1066 453)">
+      <rect id="Rectangle_12-4" data-name="Rectangle 12" width="276" height="72" rx="2" fill="#0d1431"/>
+      <text id="_09:23_11_dec_2018" data-name="09:23, 11 dec 2018" transform="translate(16 23)" fill="#fff" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">09:2</tspan><tspan y="0" letter-spacing="0.021em">3, 11 dec 2018</tspan></text>
+      <text id="_0.00945_BTC" data-name="0.00945 BTC" transform="translate(255 22)" fill="#fefefe" font-size="12" font-family="Helvetica"><tspan x="-73.711" y="0" letter-spacing="0.025em">0.00945 BT</tspan><tspan y="0">C</tspan></text>
+      <text id="_1P9RQEr2XeE3PEb44ZE3" data-name="1P9RQEr2XeE3PEb44ZE3" transform="translate(16 46)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">1P9RQEr2XeE3PEb44ZE35sfZRRW1JH</tspan></text>
+      <path id="Mask-30" data-name="Mask" d="M-12,3.333h9.447L-4.94.94-4,0,0,4-4,8l-.94-.94,2.387-2.393H-12Z" transform="translate(180 16)" fill="#7ac231"/>
+    </g>
+    <g id="Group-9" data-name="Group" transform="translate(1066 533)">
+      <rect id="Rectangle_12-5" data-name="Rectangle 12" width="276" height="72" rx="2" fill="#0d1431"/>
+      <text id="_09:27_11_dec_2018" data-name="09:27, 11 dec 2018" transform="translate(16 23)" fill="#fff" font-size="10" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="0">09:2</tspan><tspan y="0" letter-spacing="0.021em">7, 11 dec 2018</tspan></text>
+      <text id="_0.5_LTC" data-name="0.5 LTC" transform="translate(255 22)" fill="#fefefe" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-43.601" y="0">0.5 LTC</tspan></text>
+      <text id="_1AGm6Jc43FUaYRKm8wj2" data-name="1AGm6Jc43FUaYRKm8wj2" transform="translate(16 46)" fill="#42434b" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="0" y="9">1AGm6Jc43FUaYRKm8wj2cBpJ7FWgjxwC</tspan></text>
+      <path id="Mask-31" data-name="Mask" d="M12,3.333H2.553L4.94.94,4,0,0,4,4,8l.94-.94L2.553,4.667H12Z" transform="translate(196 16)" fill="#d0021b"/>
+    </g>
+    <path id="Oval_5" data-name="Oval 5" d="M13.255,0A13.255,13.255,0,1,1,0,13.255,13.255,13.255,0,0,1,13.255,0Z" transform="translate(434 384)" fill="none" stroke="rgba(0,0,0,0.25)" stroke-width="2"/>
+    <path id="Oval_4-5" data-name="Oval 4" d="M9.506,0A13.218,13.218,0,0,0,0,4.016" transform="matrix(-0.999, -0.035, 0.035, -0.999, 456.5, 410.688)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_8" data-name="Path 8" d="M0,0,2.451.624,7.189,2.916a26.691,26.691,0,0,1,2.8-1.572c.106.089,5.158.812,5.158.812L17.828.624l5.595,1.035L27.009.624l5.779,1.92h8.362L43.906.985l4.036,2.546L51.785.2l2.551,1.96,6.971,3.637L70,3.531" transform="translate(934.811 533)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_2" data-name="Path 2" d="M0,14.042l3.383,2.941L7.847,5.306l1.037.774,3-6.08,4.263,15.567,2.643-1.525,4.639.889,6.206-4.358,5.967,6.41h8.429l3.31,4.2,4.027-4.2,3.5,3.318,3.456-2.589,4.985,1.222L70,23.5" transform="translate(934.811 577.977)" fill="none" stroke="#c11e0f" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_5" data-name="Path 5" d="M0,6.007l4.13,2.57,2.853-3.26,2.389,1.82,4.537.617,4.526,7.8,3.25-3.632,4.064,1.115L27.5,15.015a13.263,13.263,0,0,1,1.232-1.979c.081.129,3,4.947,3,4.947l3.937-3.861,5.977,5.313,4.8-9.912,5.289,6.669L52.931,9.9s3.437,9.571,3.541,9.533C56.539,19.411,60.789,0,60.789,0l2.484,10.7L70,13.425" transform="translate(934.811 644.457)" fill="none" stroke="#c11e0f" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_10" data-name="Path 10" d="M0,8.1A18.42,18.42,0,0,1,2.963,9.447L11.843,0l3.206,9.447,4.181-3.875,5.112,4.57,3.485-2.567,3.76,4.3,4.27-.778,2.882,3.54,4.05.436L51.473,29.84l4.452-8.485,4.37,3.337,9.7-4.58" transform="translate(933 706)" fill="none" stroke="#05a677" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_5-3" data-name="Group 5" transform="translate(884 36)">
+      <rect id="Rectangle-16" data-name="Rectangle" width="96" height="35" rx="2" fill="#17204c"/>
+      <text id="Support" transform="translate(57.5 21)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.025em"><tspan x="-21.915" y="0">Support</tspan></text>
+      <path id="Mask-32" data-name="Mask" d="M7,14a7,7,0,1,1,7-7A7.008,7.008,0,0,1,7,14ZM6.3,9.1v1.4H7.7V9.1Zm0-5.6V7.7H7.7V3.5Z" transform="translate(12 10.5)" fill="#fff"/>
+    </g>
+    <g id="Group_8-2" data-name="Group 8" transform="translate(12)">
+      <g id="Group_7-2" data-name="Group 7" transform="translate(-2)">
+        <g id="Group_6" data-name="Group 6" transform="translate(27.063 724)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="34" height="34" rx="2" transform="translate(0 7)" fill="#4c4d55"/>
+          <circle id="Oval" cx="7.5" cy="7.5" r="7.5" transform="translate(26)" fill="#7ac231"/>
+          <text id="_1" data-name="1" transform="translate(33.5 9)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.013em"><tspan x="-3.059" y="0">1</tspan></text>
+          <path id="Mask-33" data-name="Mask" d="M20,20l0,0-4-4H5a1,1,0,0,1-1-1V13H17V4h2a1,1,0,0,1,1,1V20ZM0,15V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H4L0,15Z" transform="translate(7 14)" fill="#fff"/>
+        </g>
+        <g id="Mask_Group_279" data-name="Mask Group 279" transform="translate(8.517 -337.238)" clip-path="url(#clip-path-16)">
+          <g id="light" transform="translate(0.163 373.982)">
+            <g id="Group_269" data-name="Group 269" transform="translate(0 0)">
+              <path id="Path_1" data-name="Path 1" d="M10.821,11.094h3.5l.289,1.788h.06a5.642,5.642,0,0,1,4.185-2.131,3.769,3.769,0,0,1,3.775,2.331c1.182-1.238,2.465-2.331,4.306-2.331,3,0,4.306,2.207,4.306,5.72v8.718h-4.3V17.02c0-1.932-.484-2.5-1.565-2.5a3.3,3.3,0,0,0-2.2,1.265v9.406h-4.3V17.02c0-1.932-.484-2.5-1.565-2.5a3.3,3.3,0,0,0-2.2,1.265v9.406h-4.3V11.094Z" transform="translate(-1.114 -0.746)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              <path id="Path_2-2" data-name="Path 2" d="M35.856,11.093h3.52l.3,1.375h.1a5.991,5.991,0,0,1,3.909-1.726c3.325,0,5.421,2.853,5.421,7.226,0,4.9-2.855,7.7-5.837,7.7a4.49,4.49,0,0,1-3.224-1.478l.121,2.228v3.857h-4.3V11.093Zm8.726,6.875c0-2.475-.7-3.637-2.223-3.637a2.927,2.927,0,0,0-2.2,1.189V21.09a2.974,2.974,0,0,0,2.056.818C43.514,21.9,44.582,20.788,44.582,17.969Z" transform="translate(-2.37 -0.746)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              <path id="Path_3" data-name="Path 3" d="M51.677,21.235c0-2.97,2.27-4.579,7.644-5.17-.094-1.141-.678-1.808-2.082-1.808a7.434,7.434,0,0,0-3.6,1.238L52.14,12.6a11.264,11.264,0,0,1,5.925-1.856c3.553,0,5.562,2.028,5.6,6.435v8.01h-3.54L59.8,23.744h-.094a5.777,5.777,0,0,1-3.943,1.774A4.024,4.024,0,0,1,51.677,21.235Zm7.611-.248V18.732c-2.687.371-3.553,1.162-3.553,2.152,0,.818.578,1.21,1.478,1.21A2.662,2.662,0,0,0,59.288,20.987Z" transform="translate(-3.164 -0.746)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              <path id="Path_4-2" data-name="Path 4" d="M66.925,18.141a7.046,7.046,0,0,1,7.228-7.4,5.866,5.866,0,0,1,4.017,1.513l-2.008,2.819a2.612,2.612,0,0,0-1.767-.77c-1.888,0-3.07,1.485-3.07,3.836,0,2.324,1.236,3.809,2.929,3.809a3.869,3.869,0,0,0,2.391-.99l1.646,2.895a6.768,6.768,0,0,1-4.521,1.657C69.9,25.518,66.925,22.8,66.925,18.141Z" transform="translate(-3.93 -0.746)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              <path id="Path_5-2" data-name="Path 5" d="M81.585,19.853V14.435H79.7V11.169L81.814,11,82.3,7.284h3.587V11h3.224v3.438H85.884V19.8c0,1.561.725,2.18,1.74,2.18a4.807,4.807,0,0,0,1.256-.248l.678,3.17a9.951,9.951,0,0,1-3.117.523C82.989,25.422,81.585,23.194,81.585,19.853Z" transform="translate(-4.571 -0.65)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              <g id="Group_268" data-name="Group 268" transform="translate(1.794 10.327)">
+                <rect id="Rectangle_1" data-name="Rectangle 1" width="4.279" height="14.081" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.707"/>
+              </g>
+              <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="3.93" cy="4.022" rx="3.93" ry="4.022" fill="#eb4968" stroke="#eb4968" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.212"/>
+            </g>
+            <path id="Path_6" data-name="Path 6" d="M39.11,23.338" transform="translate(-2.534 -1.096)" fill="#18214d" stroke="#18214d" stroke-miterlimit="10" stroke-width="0.707"/>
+          </g>
+        </g>
+        <path id="Rectangle_3-5" data-name="Rectangle 3" d="M0,0H90V60.317H0Z" transform="translate(0.063 147.764)" fill="#0d1431"/>
+        <path id="Mask-34" data-name="Mask" d="M8.751,15.71V7.064H15.2V14.67a1.04,1.04,0,0,1-1.04,1.04Zm-7.71,0A1.04,1.04,0,0,1,0,14.67V10.51H6.449v5.2ZM0,8.646V1.04A1.04,1.04,0,0,1,1.04,0H6.449V8.646ZM8.751,5.2V0H14.16A1.04,1.04,0,0,1,15.2,1.04V5.2Z" transform="translate(37.86 170.067)" fill="#fff"/>
+        <g id="Group_6-3" data-name="Group 6" transform="translate(27.063 724)">
+          <rect id="Rectangle_2-2" data-name="Rectangle 2" width="34" height="34" rx="2" transform="translate(0 7)" fill="#17204c"/>
+          <circle id="Oval-2" data-name="Oval" cx="7.5" cy="7.5" r="7.5" transform="translate(26)" fill="#05a677"/>
+          <text id="_1-2" data-name="1" transform="translate(33.5 11)" fill="#fff" font-size="11" font-family="Helvetica" letter-spacing="0.013em"><tspan x="-3.059" y="0">1</tspan></text>
+          <path id="Mask-35" data-name="Mask" d="M20,20l0,0-4-4H5a1,1,0,0,1-1-1V13H17V4h2a1,1,0,0,1,1,1V20ZM0,15V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H4L0,15Z" transform="translate(7 14)" fill="#fff"/>
+        </g>
+        <path id="Combined_Shape" data-name="Combined Shape" d="M13.761,15.6H1.04A1.041,1.041,0,0,1,0,14.56V1.04A1.042,1.042,0,0,1,1.04,0H13.761A1.042,1.042,0,0,1,14.8,1.04V2.6H6.115A1.041,1.041,0,0,0,5.076,3.64V11.96A1.041,1.041,0,0,0,6.115,13H14.8V14.56A1.041,1.041,0,0,1,13.761,15.6Zm.4-4.16H8.078a1.041,1.041,0,0,1-1.04-1.04V5.2a1.042,1.042,0,0,1,1.04-1.04H14.16A1.042,1.042,0,0,1,15.2,5.2v5.2A1.041,1.041,0,0,1,14.16,11.44ZM9.6,6.46a.521.521,0,0,0-.52.52V8.628a.521.521,0,0,0,.52.52h1.466a.521.521,0,0,0,.52-.52V6.98a.521.521,0,0,0-.52-.52Z" transform="translate(37.86 228.561)" fill="#43444b"/>
+        <path id="Combined_Shape-2" data-name="Combined Shape" d="M14.16,15.2H1.04A1.042,1.042,0,0,1,0,14.16V1.04A1.042,1.042,0,0,1,1.04,0H14.16A1.042,1.042,0,0,1,15.2,1.04V14.16A1.042,1.042,0,0,1,14.16,15.2ZM11.326,8.9a.521.521,0,0,0-.52.52v2.543a.521.521,0,0,0,.52.52h.88a.521.521,0,0,0,.52-.52V9.42a.521.521,0,0,0-.52-.52ZM7.16,6.3a.521.521,0,0,0-.52.52v5.144a.521.521,0,0,0,.52.52H8.04a.521.521,0,0,0,.52-.52V6.819a.521.521,0,0,0-.52-.52ZM2.993,3.7a.521.521,0,0,0-.52.52v7.742a.521.521,0,0,0,.52.52h.88a.52.52,0,0,0,.519-.52V4.222a.52.52,0,0,0-.519-.52Z" transform="translate(37.86 286.944)" fill="#43444b"/>
+        <path id="Combined_Shape-3" data-name="Combined Shape" d="M0,8.548a7.216,7.216,0,0,1,5.462-6.99L5.644.268A.312.312,0,0,1,5.953,0H8.465a.313.313,0,0,1,.31.269L8.952,1.56A7.2,7.2,0,1,1,0,8.548ZM6.242,4.568V9.527H8.163l-1.914,0h0l4.659,1.7a.52.52,0,0,0,.667-.311l.3-.827a.521.521,0,0,0-.311-.667l-3.4-1.235V4.568a.52.52,0,0,0-.52-.52h-.88A.52.52,0,0,0,6.242,4.568Z" transform="translate(38.257 403.311)" fill="#43444b"/>
+        <path id="Combined_Shape-4" data-name="Combined Shape" d="M14.06,15.6H1.04A1.041,1.041,0,0,1,0,14.56V1.04A1.042,1.042,0,0,1,1.04,0H14.06A1.041,1.041,0,0,1,15.1,1.04V14.56A1.041,1.041,0,0,1,14.06,15.6Zm-4.906-4.75a.521.521,0,0,0-.52.52v1.648a.521.521,0,0,0,.52.52H10.8a.521.521,0,0,0,.52-.52V11.37a.521.521,0,0,0-.52-.52Zm-4.93,0a.521.521,0,0,0-.52.52v1.648a.521.521,0,0,0,.52.52H5.872a.521.521,0,0,0,.52-.52V11.37a.521.521,0,0,0-.52-.52Zm4.93-4.394a.521.521,0,0,0-.52.52V8.624a.521.521,0,0,0,.52.52H10.8a.521.521,0,0,0,.52-.52V6.976a.521.521,0,0,0-.52-.52Zm-4.93,0a.521.521,0,0,0-.52.52V8.624a.521.521,0,0,0,.52.52H5.872a.521.521,0,0,0,.52-.52V6.976a.521.521,0,0,0-.52-.52ZM2.518,1.488a.521.521,0,0,0-.52.52V3.65a.52.52,0,0,0,.52.519h9.989a.52.52,0,0,0,.52-.519V2.008a.521.521,0,0,0-.52-.52Z" transform="translate(37.91 461.846)" fill="#43444b"/>
+        <path id="Combined_Shape-5" data-name="Combined Shape" d="M14.16,15.6H1.04A1.041,1.041,0,0,1,0,14.56V2.24A1.042,1.042,0,0,1,1.04,1.2h.767v2a.52.52,0,0,0,.519.52h.607a.521.521,0,0,0,.52-.52V.52A.521.521,0,0,1,3.975,0H5.423a.521.521,0,0,1,.5.388l.213.812H9.624v2a.521.521,0,0,0,.52.52h.607a.521.521,0,0,0,.52-.52V.527a.52.52,0,0,1,.519-.519h1.45a.519.519,0,0,1,.5.385l.216.806h.2A1.042,1.042,0,0,1,15.2,2.24V14.56A1.041,1.041,0,0,1,14.16,15.6ZM6.853,11.255a.521.521,0,0,0-.52.52v1.648a.521.521,0,0,0,.52.52H8.5a.521.521,0,0,0,.52-.52V11.775a.521.521,0,0,0-.52-.52Zm-4.576,0a.52.52,0,0,0-.519.52v1.648a.52.52,0,0,0,.519.52H3.925a.521.521,0,0,0,.52-.52V11.775a.521.521,0,0,0-.52-.52Zm9.151-4.763a.521.521,0,0,0-.52.52V8.66a.521.521,0,0,0,.52.52h1.648a.521.521,0,0,0,.52-.52V7.012a.521.521,0,0,0-.52-.52Zm-4.576,0a.521.521,0,0,0-.52.52V8.66a.521.521,0,0,0,.52.52H8.5a.521.521,0,0,0,.52-.52V7.012a.521.521,0,0,0-.52-.52Zm-4.576,0a.52.52,0,0,0-.519.52V8.66a.52.52,0,0,0,.519.52H3.925a.521.521,0,0,0,.52-.52V7.012a.521.521,0,0,0-.52-.52Z" transform="translate(37.86 344.928)" fill="#43444b"/>
+        <path id="Combined_Shape-6" data-name="Combined Shape" d="M9.013,15.787H6.764a.312.312,0,0,1-.309-.269L6.22,13.811A6.072,6.072,0,0,1,4.9,13.25L3.512,14.3a.312.312,0,0,1-.409-.029l-1.59-1.59a.314.314,0,0,1-.028-.41l1.076-1.418a6.069,6.069,0,0,1-.513-1.275L.268,9.322A.314.314,0,0,1,0,9.013V6.764a.312.312,0,0,1,.269-.309l1.809-.248a6.084,6.084,0,0,1,.515-1.232l-1.1-1.463A.314.314,0,0,1,1.52,3.1l1.591-1.59a.311.311,0,0,1,.409-.028l1.457,1.1a6.029,6.029,0,0,1,1.234-.516L6.466.268A.313.313,0,0,1,6.774,0H9.023a.314.314,0,0,1,.31.269L9.58,2.061a6.059,6.059,0,0,1,1.255.515l1.441-1.084a.311.311,0,0,1,.408.028l1.591,1.591a.314.314,0,0,1,.028.409L13.225,4.942a6.092,6.092,0,0,1,.537,1.276l1.757.248a.313.313,0,0,1,.268.309V9.023a.31.31,0,0,1-.269.31l-1.73.238a6.121,6.121,0,0,1-.535,1.319L14.3,12.276a.313.313,0,0,1-.029.408l-1.59,1.591a.314.314,0,0,1-.41.028L10.9,13.269a6.023,6.023,0,0,1-1.342.558l-.239,1.692A.314.314,0,0,1,9.013,15.787ZM7.918,5.99a1.951,1.951,0,1,0,1.929,1.95A1.942,1.942,0,0,0,7.918,5.99Z" transform="translate(37.566 578.213)" fill="#43444b"/>
+        <path id="Combined_Shape-7" data-name="Combined Shape" d="M13.414,15.2H1.6A1.6,1.6,0,0,1,0,13.6V1.04A1.042,1.042,0,0,1,1.04,0H11.048a1.042,1.042,0,0,1,1.04,1.04V3.189h1.885a1.041,1.041,0,0,1,1.04,1.039V13.6A1.6,1.6,0,0,1,13.414,15.2ZM11.446,5.6v6.546a.884.884,0,0,0,1.768,0V5.6ZM2.375,10.876a.521.521,0,0,0-.52.52v.728a.52.52,0,0,0,.52.519h5.2a.52.52,0,0,0,.52-.519V11.4a.521.521,0,0,0-.52-.52Zm0-3.276a.521.521,0,0,0-.52.52v.728a.521.521,0,0,0,.52.52h7.38a.52.52,0,0,0,.519-.52V8.12a.52.52,0,0,0-.519-.52Zm0-5.557a.521.521,0,0,0-.52.52V5.08a.521.521,0,0,0,.52.52h7.38a.52.52,0,0,0,.519-.52V2.563a.52.52,0,0,0-.519-.52Z" transform="translate(37.953 520.229)" fill="#43444b"/>
+      </g>
+    </g>
+  </g>
+</svg>
